@@ -6,7 +6,7 @@
 <div align="center">
     <div>
         <a href='http://www.lamda.nju.edu.cn/zhoudw' target='_blank'>Da-Wei Zhou</a><sup>1</sup>&emsp;
-        <a href='http://www.lamda.nju.edu.cn/likw' target='_blank'>Kai-wen Li</a><sup>1</sup>&emsp;
+        <a href='http://www.lamda.nju.edu.cn/likw' target='_blank'>Kai-Wen Li</a><sup>1</sup>&emsp;
         <a href='https://jingyinju.github.io/' target='_blank'>Jingyi Ning</a><sup>1</sup>&emsp;
         <a href='http://www.lamda.nju.edu.cn/yehj' target='_blank'>Han-Jia Ye</a><sup>1</sup>&emsp;
         <a href='https://ai.nju.edu.cn/zlj/' target='_blank'>Lijun Zhang</a><sup>1</sup>&emsp;
