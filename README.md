@@ -18,13 +18,6 @@
 </div>
 
 
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zhoudw-zdw.Proof&left_color=yellow&right_color=purple" alt="visitors">
-  </a>
-</div>
-
 The code repository for "[External Knowledge Injection for CLIP-Based Class-Incremental Learning]()"  in PyTorch.  If you use any content of this repo for your work, please cite the following bib entry: 
 
 ```bibtex
