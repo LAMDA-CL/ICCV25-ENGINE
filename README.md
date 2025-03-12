@@ -5,23 +5,34 @@
 
 <div align="center">
     <div>
-        <a href='http://www.lamda.nju.edu.cn/zhoudw' target='_blank'>Da-Wei Zhou</a><sup>1</sup>&emsp;
-        <a href='http://www.lamda.nju.edu.cn/likw' target='_blank'>Kai-Wen Li</a><sup>1</sup>&emsp;
-        <a href='https://jingyinju.github.io/' target='_blank'>Jingyi Ning</a><sup>1</sup>&emsp;
-        <a href='http://www.lamda.nju.edu.cn/yehj' target='_blank'>Han-Jia Ye</a><sup>1</sup>&emsp;
-        <a href='https://ai.nju.edu.cn/zlj/' target='_blank'>Lijun Zhang</a><sup>1</sup>&emsp;
-        <a href='http://www.lamda.nju.edu.cn/zhandc' target='_blank'>De-Chuan Zhan</a><sup>1</sup>&emsp;
+        <a href='http://www.lamda.nju.edu.cn/zhoudw' target='_blank'>Da-Wei Zhou</a>&emsp;
+        <a href='http://www.lamda.nju.edu.cn/likw' target='_blank'>Kai-Wen Li</a>&emsp;
+        <a href='https://jingyinju.github.io/' target='_blank'>Jingyi Ning</a>&emsp;
+        <a href='http://www.lamda.nju.edu.cn/yehj' target='_blank'>Han-Jia Ye</a>&emsp;
+        <a href='https://ai.nju.edu.cn/zlj/' target='_blank'>Lijun Zhang</a>&emsp;
+        <a href='http://www.lamda.nju.edu.cn/zhandc' target='_blank'>De-Chuan Zhan</a>&emsp;
     </div>
     <div>
-    <sup>1</sup>School of Artificial Intelligence, State Key Laboratory for Novel Software Technology, Nanjing University
+    State Key Laboratory for Novel Software Technology, Nanjing University
     </div>
 </div>
 
+<div align="center">
 
-The code repository for "[External Knowledge Injection for CLIP-Based Class-Incremental Learning]()"  in PyTorch.  If you use any content of this repo for your work, please cite the following bib entry: 
+  <a href="https://arxiv.org/abs/2503.08510">
+    <img src="https://img.shields.io/badge/Paper-red" alt="arXiv">
+  </a>
+
+</div>
+
+The code repository for "[External Knowledge Injection for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2503.08510)"  in PyTorch.  If you use any content of this repo for your work, please cite the following bib entry: 
 
 ```bibtex
-@article{
+@article{zhou2025external,
+  title={External Knowledge Injection for CLIP-Based Class-Incremental Learning},
+  author={Da-Wei Zhou and Kai-Wen Li and Jingyi Ning and Han-Jia Ye and Lijun Zhang and De-Chuan Zhan},
+  journal={arXiv preprint arXiv:2503.08510},
+  year={2025}
 }
 ```
 
@@ -29,9 +40,9 @@ The code repository for "[External Knowledge Injection for CLIP-Based Class-Incr
 
 # 📢 **Updates**
 
-[] Code has been released.
+[03/2025] Code has been released.
 
-[] [arXiv]() paper has been released.
+[03/2025] [arXiv](https://arxiv.org/abs/2503.08510) paper has been released.
 
 
 # 📝 Introduction
