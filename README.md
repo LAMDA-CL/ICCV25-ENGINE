@@ -1,4 +1,4 @@
-# External Knowledge Injection for CLIP-Based Class-Incremental Learning
+# External Knowledge Injection for CLIP-Based Class-Incremental Learning (ICCV 2025)
 
 
 
@@ -25,7 +25,7 @@
 
 </div>
 
-The code repository for "[External Knowledge Injection for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2503.08510)"  in PyTorch.  If you use any content of this repo for your work, please cite the following bib entry: 
+The code repository for "[External Knowledge Injection for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2503.08510)" (ICCV 2025)  in PyTorch.  If you use any content of this repo for your work, please cite the following bib entry: 
 
 ```bibtex
 @article{zhou2025external,
@@ -39,6 +39,8 @@ The code repository for "[External Knowledge Injection for CLIP-Based Class-Incr
 
 
 # 📢 **Updates**
+
+[06/2025] Accepted to [ICCV 2025](https://iccv.thecvf.com/).
 
 [03/2025] Code has been released.
 
